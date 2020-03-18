@@ -1,4 +1,4 @@
-File: "greeting.rb"
+File: 'greeting.rb'
 
 '''Ruby
 
